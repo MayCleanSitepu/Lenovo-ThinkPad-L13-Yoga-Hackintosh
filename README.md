@@ -430,7 +430,7 @@ DeviceProperties
 - [ ] FileVault `should work I just haven't tried it`
 - [ ] Sidecar wired
 - [ ] Sidecar wireless
-- [ ] Windows/Linux from OC boot menu`I'm not dual booting my system but there's no reason it shouldn't work.`
+- [x] Windows/Linux from OC boot menu`I'm not dual booting my system but there's no reason it shouldn't work.`
 
 
 
