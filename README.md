@@ -4,7 +4,8 @@
 
 <img align="right" src="./Other/README_Resources/l13-yoga2.png" alt="L13 Yoga macOS" width="430">
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue.svg)](https://github.com/acidanthera/OpenCorePkg) [![macOS-Unstable](https://img.shields.io/badge/macOS-12.7.2-brightgreen.svg)](https://www.apple.com/macos/) [![macOS-Unstable](https://img.shields.io/badge/macOS-13.6.3-orange.svg)](https://www.apple.com/ca/macos/) [![macOS-Unstable](https://img.shields.io/badge/macOS-14.2.1-brightgreen.svg)](https://www.apple.com/ca/macos/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue.svg)](https://github.com/acidanthera/OpenCorePkg) [![macOS-Unstable](https://img.shields.io/badge/macOS-12.7.2-brightgreen.svg)](https://www.apple.com/macos/) [![macOS-Unstable](https://img.shields.io/badge/macOS-13.6.3-orange.svg)](https://www.apple.com/ca/macos/) [![macOS-Unstable](https://img.shields.io/badge/macOS-14.2.1-brightgreen.svg)](https://www.apple.com/ca/macos/) ![Static Badge](https://img.shields.io/badge/macOs-14.5-green)
+
 
 **DISCLAIMER: ** As you embark on your Hackintosh journey you are encouraged to **READ** the entire README and [Dortania](https://dortania.github.io/getting-started/) guides before you start, or check out some [Youtube videos](https://www.youtube.com/c/TechNolli) to get an understanding of the install process. It will save many a message instructing you to read the manual. **I am not an expert**, I haven't forced you to do anything, so put on your big boy pants and take responsibility for any mess you get yourself into.
 
