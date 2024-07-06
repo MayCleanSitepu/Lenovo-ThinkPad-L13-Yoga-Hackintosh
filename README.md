@@ -107,11 +107,11 @@ To install macOS follow the guides provided by [Dortania](https://dortania.githu
 | Category  | Component                                            | Note                                                         |
 | --------- | ---------------------------------------------------- | ------------------------------------------------------------ |
 | Type      | 20R5, 20R6                                           |                                                              |
-| CPU       | Intel Core i5-10210U                                 |                                                              |
+| CPU       | Intel Core i5-10310u                                 |                                                              |
 | GPU       | Intel UHD 630                                        |                                                              |
-| SSD       | WD 512GB                                             | Replaced cursed PM 981 which still doesn't work reliably     |
+| SSD       | ADATA XPG 512GB                                      |            					          |
 | Screen    | 13" FHD 1920x1080                                    | Multi touch and pen* support working                         |
-| Memory    | 8GB / 2666MHz DDR4                                   |                                                              |
+| Memory    | 16GB / 2666MHz DDR4                                   |                                                              |
 | Battery   | Integrated Li-Polymer 46Wh                           | Single battery                                               |
 | Camera    | 720p Camera and 5MP camera                           | Both cameras working                                         |
 | Wifi & BT | Intel Wireless-AC 9560                               | Use AirportItlwm for your macOS version and enjoy native Wi-Fi control. |
@@ -129,7 +129,7 @@ To install macOS follow the guides provided by [Dortania](https://dortania.githu
 
 | Component    | Version |
 | ------------ | ------- |
-| macOS Sonoma | 14.2.1  |
+| macOS Sonoma | 14.5    |
 | OpenCore     | v1.0.0  |
 
 
